@@ -1,0 +1,1 @@
+Cleaning Excel sheets via Python in order to insert the data inti an SQL db.
